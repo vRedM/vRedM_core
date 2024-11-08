@@ -1,9 +1,9 @@
 fx_version "cerulean"
 rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aware my resources *will* become incompatible once RedM ships.'
-description "Basic React (TypeScript) & Lua Game Scripts Boilerplate"
-author "Project Error"
+description "vRedM Core"
+author "vRedM"
 version '1.0.0'
-repository 'https://github.com/project-error/fivem-react-boilerplate-lua'
+repository 'https://github.com/vRedM/vRedM_core'
 
 lua54 'yes'
 
