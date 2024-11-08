@@ -52,7 +52,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## Contact
 
-Pour toute question ou suggestion, n'hésitez pas à rejoindre notre communauté Discord :
+Pour toute question ou suggestion ou pour voir l'avancement du projet, n'hésitez pas à rejoindre notre communauté Discord :
 
 - [Discord](https://discord.gg/tNZ2QAA3gP)
 
