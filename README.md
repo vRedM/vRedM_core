@@ -1,4 +1,4 @@
-# vRedM: Lua & TypeScript Core
+# vRedM Core
 
 ## Introduction
 
