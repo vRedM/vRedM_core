@@ -14,7 +14,7 @@ RegisterCommand('show-nui2', function()
 end)
 
 RegisterNUICallback('hideFrame', function(_, cb)
-  toggleNuiFrame(false, nil) -- Cache toutes les fenêtres
+  toggleNuiFrame(false, nil)
   debugPrint('Hide NUI frame')
   cb({})
 end)
